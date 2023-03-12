@@ -100,5 +100,5 @@
     /> 
  </a> 
 
-<b>Data analysis</b>: NGS data analysis, transcriptome and proteome data analysis, basic population structure analysis, genetic map construction, GWAS and QTL mapping
-<b>Lab skills</b>: Basic molecular biology techniques (nucleic acids extraction and purification, gel electrophoresis, PCR), Nanopore libraries preparation.
+<p><b>Data analysis</b>: NGS data analysis, transcriptome and proteome data analysis</p>
+<p><b>Lab skills</b>: Basic molecular biology techniques (nucleic acids extraction and purification, gel electrophoresis, PCR), Nanopore libraries preparation. </p>
