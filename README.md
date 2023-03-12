@@ -13,6 +13,9 @@
 
 <h3>My skills</h3>
 
+<p><b>Data analysis</b>: NGS data analysis, transcriptome and proteome data analysis</p>
+<p><b>Lab skills</b>: Basic molecular biology techniques (nucleic acids extraction and purification, gel electrophoresis, PCR), Nanopore libraries preparation, plant biotechnology. </p>
+
 <p align="left">
    <a 
     href="https://code.visualstudio.com/" 
@@ -100,5 +103,3 @@
     /> 
  </a> 
 
-<p><b>Data analysis</b>: NGS data analysis, transcriptome and proteome data analysis</p>
-<p><b>Lab skills</b>: Basic molecular biology techniques (nucleic acids extraction and purification, gel electrophoresis, PCR), Nanopore libraries preparation. </p>
