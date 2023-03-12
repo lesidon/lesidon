@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram--brightgreen?style=social&logo=Instagram)](https://www.instagram.com/lesidon/)
 
 
-<p> Welcome to my page! </br> I'm Leonid, Skoltech student <a href="https://skoltech.ru"><img src="https://colab.ws/storage/images/resized/LqUPG0Ipu7ZHhte9r4gFTTptxQfmb37QHBQlKGJe_large.jpg" width="20"></a> at MSc Life Sciences program. Here I combine bioinformatics <img src="https://user-images.githubusercontent.com/122889154/224551218-b3f6b27d-e21e-4843-9f00-69a25077a577.png" width="20"> with agro <img src="https://cdn-icons-png.flaticon.com/512/263/263910.png" width="20">. I finished BSc in agronomy, with the specialisation in plant breeding and genetics. </p>
+<p> Welcome to my page! </br> I'm Leonid, Skoltech student <a href="https://skoltech.ru"><img src="https://colab.ws/storage/images/resized/LqUPG0Ipu7ZHhte9r4gFTTptxQfmb37QHBQlKGJe_large.jpg" width="20"></a> at MSc Life Sciences program. Here I combine bioinformatics <img src="https://user-images.githubusercontent.com/122889154/224551218-b3f6b27d-e21e-4843-9f00-69a25077a577.png" width="20"> with agro <img src="https://cdn-icons-png.flaticon.com/512/263/263910.png" width="20">. I finished BSc in agronomy, with the specialisation in plant breeding and genetics. You can ask everything about grains! </p>
 <p>Currently, I am working in LuCoGen project at the <a href='https://agro.skoltech.ru/'>Project Center for Agro Technologies</a> where I am looking for candidate genes responsible for resistance in <i>Lupinus albus </i> L. to <i>Colletotrichum lupini</i>, using -omics technologies. 
 
 <p>In a free time I like to read some great book or go to a pub with friends.</p>
