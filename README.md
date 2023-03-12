@@ -99,3 +99,6 @@
         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
     /> 
  </a> 
+
+<b>Data analysis</b>: NGS data analysis, transcriptome and proteome data analysis, basic population structure analysis, genetic map construction, GWAS and QTL mapping
+<b>Lab skills</b>: Basic molecular biology techniques (nucleic acids extraction and purification, gel electrophoresis, PCR), Nanopore libraries preparation.
